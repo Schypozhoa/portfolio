@@ -1,5 +1,4 @@
 "use client";
-import Head from "next/head";
 import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import HomeComponent from "@/components/Home";
@@ -64,12 +63,6 @@ export default function Home() {
 
   return (
     <div className="bg-black text-white">
-      <Head>
-        <meta
-          name="description"
-          content="Danu Adi Nugroho portfolio. I am web developer, artificial intelligence and machine learning enthusiast. Danu Adi Nugroho, DanuAdiNugroho, danu adi nugroho"
-        />
-      </Head>
       <NavbarComponent isHomeInView={isHomeInView} isAboutInView={isAboutInView} isProjectInView={isProjectInView} />
       <motion.div ref={homeRef} id="home">
         <HomeComponent />

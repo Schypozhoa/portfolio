@@ -105,7 +105,7 @@ const ProjectComponent = () => {
         for clients who are experiencing depression to share stories with
         psychologists and active listeners to reduce feelings of depression.
         This project is built using Next.js and React.js."
-        imagePath="/welisten-web.png"
+        imagePath="/welisten-web.webp"
         techStack="Next.js, React.js, TailwindCSS"
         projectLink={"https://welistenindonesia.vercel.app/"}
       />
@@ -115,7 +115,7 @@ const ProjectComponent = () => {
         clients who are experiencing depression to share stories with psychologists and 
         active listeners using whatsapp to reduce feelings of depression. This project is 
         built using Node.js."
-        imagePath="/welisten-wa.png"
+        imagePath="/welisten-wa.webp"
         techStack="Node.js, Express.js, MongoDB"
         projectLink={"https://lynk.id/welisten"}
       />
@@ -126,7 +126,7 @@ const ProjectComponent = () => {
         user inserted image. In this project, I built the backend system using Flask 
         and the recommendation system using collaborative filtering with image classification 
         using TensorFlow."
-        imagePath="/sata.png"
+        imagePath="/sata.webp"
         techStack="Flask, Python, TensorFlow, Keras"
         githubLink="https://github.com/C23-PR589/C23-PR589/tree/ML_Sata/ML"
       />
@@ -136,7 +136,7 @@ const ProjectComponent = () => {
         Based and Item Based Filtering techniques. This system was created to help 
         users find a book based on recommendations from ratings given by other users. 
         This project is built using Python, Flask, Pandas, and Scikit-Learn."
-        imagePath="/rekobuk.png"
+        imagePath="/rekobuk.webp"
         techStack="Flask, Python, Pandas, Scikit-Learn"
         githubLink="https://github.com/Wintec-Yuda/Project-akhir-MSIB"
       />

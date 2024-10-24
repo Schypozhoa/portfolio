@@ -90,15 +90,6 @@ const ProjectComponent = () => {
       <p className="text-4xl font-bold text-mikuPrimary pb-6 text-center">
         Projects
       </p>
-      <ProjectItem
-        title="F2 Education WebApp [On-Going Project]"
-        description="F2 Education WebApp is a web-based application that 
-        helps the owner of the organization to manage their students and teachers as 
-        well as the attendance system. This project is built using Next.js, React.js 
-        and MySQL as the database."
-        imagePath="/coming-soon.webp"
-        techStack="Node.js, React.js, MySQL, Next.js, TailwindCSS"
-      />
       <ProjectItem 
         title="WeListen Website"
         description="WeListen is a business start-up that has a vision to become a forum 
